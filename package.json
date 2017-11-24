@@ -4,8 +4,7 @@
   "author": "roxma@qq.com",
   "description": "complete manager for neovim",
   "repository": {
-    "type": "git",
-    "url": "git://github.com/roxma/nvim-complete-manager.git"
+    "type": "git"
   },
   "dependencies": {
     "tern": "https://github.com/ternjs/tern.git"
